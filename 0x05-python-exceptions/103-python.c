@@ -1,5 +1,3 @@
-103-python.c
-
 #include <Python.h>
 #include <stdio.h>
 /**
