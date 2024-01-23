@@ -1,5 +1,3 @@
-6-raise_exception_msg.py
-
 g!/usr/bin/python3
 
 def raise_exception_msg(message=""):
